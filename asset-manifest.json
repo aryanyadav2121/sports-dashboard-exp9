@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sports-dashboard-exp9/static/css/main.8cfe6665.css",
+    "main.js": "/sports-dashboard-exp9/static/js/main.7e28fc65.js",
+    "static/js/453.68d280be.chunk.js": "/sports-dashboard-exp9/static/js/453.68d280be.chunk.js",
+    "index.html": "/sports-dashboard-exp9/index.html",
+    "main.8cfe6665.css.map": "/sports-dashboard-exp9/static/css/main.8cfe6665.css.map",
+    "main.7e28fc65.js.map": "/sports-dashboard-exp9/static/js/main.7e28fc65.js.map",
+    "453.68d280be.chunk.js.map": "/sports-dashboard-exp9/static/js/453.68d280be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cfe6665.css",
+    "static/js/main.7e28fc65.js"
+  ]
+}
